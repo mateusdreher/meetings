@@ -1,0 +1,71 @@
+{
+  "text": "testando recall ai",
+  "segments": [
+    {
+      "participant": {
+        "id": 100,
+        "name": "Andre Davys",
+        "extra_data": {
+          "microsoft_teams": {
+            "role": "8:orgid:39a4b81a-1d00-45eb-a475-f75125ea21f9",
+            "meeting_role": "organizer",
+            "participant_type": "inTenant",
+            "user_id": "8:orgid:39a4b81a-1d00-45eb-a475-f75125ea21f9",
+            "tenant_id": "e8383dbd-3aed-471a-b5c7-42fc9c2c3042",
+            "client_version": "CallSignalingAgent (49/26106.1906.4665.7308/26041617215;release_releases/CL2026.R12.2026.12.01.23;releases/CL2026.R12)"
+          }
+        },
+        "is_host": true,
+        "platform": "unknown",
+        "email": null
+      },
+      "words": [
+        {
+          "text": "testando",
+          "start_timestamp": {
+            "relative": 10.274,
+            "absolute": "2026-05-18T15:40:34.647Z"
+          },
+          "end_timestamp": {
+            "relative": 10.774,
+            "absolute": "2026-05-18T15:40:35.147Z"
+          }
+        },
+        {
+          "text": "o",
+          "start_timestamp": {
+            "relative": 10.774,
+            "absolute": "2026-05-18T15:40:35.147Z"
+          },
+          "end_timestamp": {
+            "relative": 10.994,
+            "absolute": "2026-05-18T15:40:35.367Z"
+          }
+        },
+        {
+          "text": "Recall",
+          "start_timestamp": {
+            "relative": 10.994,
+            "absolute": "2026-05-18T15:40:35.367Z"
+          },
+          "end_timestamp": {
+            "relative": 11.454,
+            "absolute": "2026-05-18T15:40:35.827Z"
+          }
+        },
+        {
+          "text": "AI.",
+          "start_timestamp": {
+            "relative": 11.454,
+            "absolute": "2026-05-18T15:40:35.827Z"
+          },
+          "end_timestamp": {
+            "relative": 11.894,
+            "absolute": "2026-05-18T15:40:36.267Z"
+          }
+        }
+      ],
+      "language_code": "pt"
+    }
+  ]
+}
